@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7943072
+  brandStrength: 0.6783029
+  lightness: 0.480666
+  brandColors:
+    - '#030710'
+    - '#FFFFFF'
+    - '#8F643A'
+    - '#F1A057'
+    - '#3B5D5F'
+  rhythmicContrast: 0.7696025
+typography_spectrum: 0.604189
+name: Checkagain
